@@ -1,6 +1,6 @@
 # SIVIA
 
-	SIstema de VIgilância Automatizado busca ser uma solução open-source para o custo de monitoramento de câmeras de segurança,
+SIstema de VIgilância Automatizado busca ser uma solução open-source para o custo de monitoramento de câmeras de segurança,
 oferecendo uma alternativa gratuita e funcional ao monitoramento manual de câmeras (realizado por agentes). Nesta versão alfa,
 o software permitirá o registro de até 4 câmeras (fontes de vídeo quaisquer), através das quais o mesmo há de disparar um alarme
 em caso de detecção de indivíduo nas imagens, nos horários de restrição definidos pelo usuário. Para tal reconhecimento, usar-se-á
