@@ -8,3 +8,7 @@ a API ImageAI (https://github.com/OlafenwaMoses/ImageAI), a qual provê uma sér
 da disciplina de Engenharia de Software, dos alunos Luan Ribeiro, Nicholas Moreira e Tomás Benfica da Universidade Federal do Pampa,
 de Bagé/RS, sob a orientação do professor Carlos Michel Betemps.
 
+Pode-se acompanhar o andamento do projeto através do seguinte link:
+
+[Trello: Projeto SIVIA](https://trello.com/invite/b/CGXAYoYJ/0abf1a3a4b59209be3e29867ba8fe862/projeto-sivia)
+
